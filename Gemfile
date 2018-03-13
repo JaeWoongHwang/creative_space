@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'simple-line-icons-rails'
+gem 'font-awesome-rails'
 gem 'bootstrap'
 gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
